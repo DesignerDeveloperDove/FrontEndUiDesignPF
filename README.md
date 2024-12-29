@@ -1,2 +1,2 @@
 # FrontEndUiDesignPF
-This is my final portfolio draft of my bachelors degree . this will be a cumulative portfolio showcasing my front end engineering and UI designer skills acquired throughout the past 4 years . 
+This is my final portfolio draft of my bachelors degree . this will be a cumulative portfolio showcasing my front end engineering and UI designer skills acquired throughout the past 4 years .  over the past years i have been working my way towards a bachelors in interactive design with a minor in IT. I plan on using these skills to become a front end developer / ui developer who specializes in front end user experiences. i believe this project should be complete by january 15th but lets be real... a portfolio is never complete.
